@@ -1,1 +1,1 @@
-# aspnet-core-cqrs-mediator
+<h2>Demo MediatR</h2>
